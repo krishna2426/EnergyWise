@@ -47,10 +47,13 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
 ### Frontend Stack
 - **HTML5** - Semantic, accessible markup
 - **CSS3** - Large touch-friendly buttons, high contrast themes
-- **JavaScript** - Simple, intuitive interactions
-- **[Framework: React/Vue/Angular]** - Component-based architecture
-- **[UI Library: Bootstrap/Tailwind CSS]** - Responsive design
-- **[Charts: Chart.js/Recharts]** - Simple, clear data visualization
+- **TypeScript** - Simple, intuitive interactions
+- **NextJs/React(Core UI)** - Component-based architecture
+- **Tailwind CSS** - Responsive design
+- **shadcn/ui Progress Component** - Simple, clear data visualization
+  ```bash
+  <Progress value={monthlyProgress} className="h-4" />
+  ```
 - **Web Accessibility Standards (WCAG 2.1 Level AA)** - Ensuring usability for all
 
 ### Accessibility Features
