@@ -270,9 +270,9 @@ EnergyWise envisions a world where age is never a barrier to technology. By crea
 Interested in implementing this for senior communities or contributing to senior-focused tech? Reach out via:
 - GitHub Issues
 - Pull Requests
-- [krishnakr3009@gmail.com]
+- krishnakr3009@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - The Idea was taken from a hackathon which was Sustainovation 2025
 - Designed with input from elderly users and caregivers
