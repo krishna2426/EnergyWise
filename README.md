@@ -54,6 +54,7 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
   ```bash
   <Progress value={monthlyProgress} className="h-4" />
   ```
+- Lucid React - For Icons pack
 - **Web Accessibility Standards (WCAG 2.1 Level AA)** - Ensuring usability for all
 
 ### Accessibility Features
