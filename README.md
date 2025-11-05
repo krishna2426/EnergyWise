@@ -1,5 +1,5 @@
-# EnergyWise
-(submission for SUSTAINOVATION 2025)
+# EnergyWise(SUSTAINOVATION 2025)
+
 A senior-friendly energy management interface designed to help elderly users easily monitor and control their electricity consumption. This frontend demonstration showcases an accessible, intuitive platform that empowers seniors to manage their energy usage independently and confidently.
 
 ##  Project Overview
