@@ -9,13 +9,13 @@ EnergyWise addresses a critical gap in energy management technology by creating 
 ##  Why EnergyWise Matters for Seniors
 
 Many elderly people face unique challenges with electricity management:
-- **Difficulty reading small text** on complex energy meters and bills
-- **Confusion with digital interfaces** and multiple navigation menus
-- **Physical limitations** that make it hard to check multiple rooms or appliances
-- **Cognitive challenges** in understanding complex data and graphs
-- **Fixed incomes** making energy cost monitoring crucial
-- **Safety concerns** about leaving appliances on accidentally
-- **Living alone** without immediate help for technical issues
+- **Difficulty reading small text** on complex energy meters and bills.
+- **Confusion with digital interfaces** and multiple navigation menus.
+- **Physical limitations** that make it hard to check multiple rooms or appliances.
+- **Cognitive challenges** in understanding complex data and graphs.
+- **Fixed incomes** making energy cost monitoring crucial.
+- **Safety concerns** about leaving appliances on accidentally.
+- **Living alone** without immediate help for technical issues.
 
 EnergyWise makes energy management simple, safe, and stress-free for elderly users.
 
