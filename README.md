@@ -22,11 +22,11 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
 ##  Senior-Friendly Features (Frontend Demo)
 
 ### Accessibility-First Design
-- **Large, Readable Text** - High contrast and adjustable font sizes
-- **Simple Navigation** - Minimal clicks, clear buttons with text labels
-- **Visual Clarity** - Clean layouts with plenty of white space
-- **Color-Coded Alerts** - Easy-to-understand traffic light system (Red/Yellow/Green)
-- **Icon-Based Interface** - Intuitive symbols alongside text labels
+- **Large, Readable Text** - High contrast and adjustable font sizes.
+- **Simple Navigation** - Minimal clicks, clear buttons with text labels.
+- **Visual Clarity** - Clean layouts with plenty of white space.
+- **Color-Coded Alerts** - Easy-to-understand traffic light system (Red/Yellow/Green).
+- **Icon-Based Interface** - Intuitive symbols alongside text labels.
 
 ### Key Functionalities
 - **At-a-Glance Dashboard** - See current usage and costs without scrolling
