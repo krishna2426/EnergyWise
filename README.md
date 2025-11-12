@@ -29,7 +29,7 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
 - **Icon-Based Interface** - Intuitive symbols alongside text labels.
 
 ### Key Functionalities
-- **At-a-Glance Dashboard** - See current usage and costs without scrolling
+- **At-a-Glance Dashboard** - See current usage and costs without scrolling.
 - **Simple Device Cards** - Large, clear cards showing which appliances are on/off
 - **Voice Commands** (Demo) - Control and query energy usage hands-free
 - **Emergency Alerts** - Clear warnings for unusual consumption patterns
