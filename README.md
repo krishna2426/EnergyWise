@@ -30,27 +30,27 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
 
 ### Key Functionalities
 - **At-a-Glance Dashboard** - See current usage and costs without scrolling.
-- **Simple Device Cards** - Large, clear cards showing which appliances are on/off
-- **Voice Commands** (Demo) - Control and query energy usage hands-free
-- **Emergency Alerts** - Clear warnings for unusual consumption patterns
-- **One-Click Controls** - Turn off all non-essential devices with a single button
-- **Monthly Budget Tracker** - Easy-to-read progress bar showing spending vs. budget
+- **Simple Device Cards** - Large, clear cards showing which appliances are on/off.
+- **Voice Commands** (Demo) - Control and query energy usage hands-free.
+- **Emergency Alerts** - Clear warnings for unusual consumption patterns.
+- **One-Click Controls** - Turn off all non-essential devices with a single button.
+- **Monthly Budget Tracker** - Easy-to-read progress bar showing spending vs. budget.
 
 ### Safety Features
-- **Appliance Status** - Visual indicators showing what's currently running
-- **Reminder System** - Gentle notifications for devices left on too long
-- **Emergency Contact** - Quick access to family members or support
-- **Scheduled Reminders** - Automatic prompts to turn off appliances before bed
+- **Appliance Status** - Visual indicators showing what's currently running.
+- **Reminder System** - Gentle notifications for devices left on too long.
+- **Emergency Contact** - Quick access to family members or support.
+- **Scheduled Reminders** - Automatic prompts to turn off appliances before bed.
 
 ##  Technologies Used
 
 ### Frontend Stack
-- **HTML5** - Semantic, accessible markup
-- **CSS3** - Large touch-friendly buttons, high contrast themes
-- **TypeScript** - Simple, intuitive interactions
-- **NextJs/React(Core UI)** - Component-based architecture
-- **Tailwind CSS** - Responsive design
-- **shadcn/ui Progress Component** - Simple, clear data visualization
+- **HTML5** - Semantic, accessible markup.
+- **CSS3** - Large touch-friendly buttons, high contrast themes.
+- **TypeScript** - Simple, intuitive interactions.
+- **NextJs/React(Core UI)** - Component-based architecture.
+- **Tailwind CSS** - Responsive design.
+- **shadcn/ui Progress Component** - Simple, clear data visualization.
   ```bash
   <Progress value={monthlyProgress} className="h-4" />
   ```
