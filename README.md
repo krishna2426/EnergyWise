@@ -93,22 +93,22 @@ open index.html
 ### For Elderly Individuals & Families
 
 **Independent Living Support**
-- Enable seniors to age in place with confidence in managing their homes
-- Reduce anxiety about electricity bills and appliance safety
-- Provide family members peace of mind with remote monitoring capabilities
-- Early detection of cognitive decline through unusual usage patterns
+- Enable seniors to age in place with confidence in managing their homes.
+- Reduce anxiety about electricity bills and appliance safety.
+- Provide family members peace of mind with remote monitoring capabilities.
+- Early detection of cognitive decline through unusual usage patterns.
 
 **Financial Protection**
-- Help seniors on fixed incomes avoid unexpected high bills
-- Identify energy-wasting appliances to reduce monthly costs
-- Simple budgeting tools that make sense at a glance
-- Fraud detection for unusual consumption that might indicate meter tampering
+- Help seniors on fixed incomes avoid unexpected high bills.
+- Identify energy-wasting appliances to reduce monthly costs.
+- Simple budgeting tools that make sense at a glance.
+- Fraud detection for unusual consumption that might indicate meter tampering.
 
 **Safety & Health Monitoring**
-- Detect if refrigerator stops working (medication spoilage prevention)
-- Alert family if stove is left on for extended periods
-- Monitor heating/cooling to prevent temperature-related health issues
-- Track activity patterns through appliance usage (wellness indicator)
+- Detect if refrigerator stops working (medication spoilage prevention).
+- Alert family if stove is left on for extended periods.
+- Monitor heating/cooling to prevent temperature-related health issues.
+- Track activity patterns through appliance usage (wellness indicator).
 
 ### For Senior Living Communities & Care Facilities
 
