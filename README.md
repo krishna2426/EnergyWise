@@ -58,16 +58,16 @@ EnergyWise makes energy management simple, safe, and stress-free for elderly use
 - **Web Accessibility Standards (WCAG 2.1 Level AA)** - Ensuring usability for all.
 
 ### Accessibility Features
-- **Screen Reader Compatible** - Full ARIA labels and semantic HTML
-- **Keyboard Navigation** - Complete functionality without mouse
-- **Touch-Friendly** - Large buttons (minimum 44x44px)
-- **Voice Command Ready** - Structure for voice assistant integration
+- **Screen Reader Compatible** - Full ARIA labels and semantic HTML.
+- **Keyboard Navigation** - Complete functionality without mouse.
+- **Touch-Friendly** - Large buttons (minimum 44x44px).
+- **Voice Command Ready** - Structure for voice assistant integration.
 
 ##  Getting Started
 
 ### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, or Edge)
-- [Node.js](https://nodejs.org/) (if using a build tool)
+- A modern web browser (Chrome, Firefox, Safari, or Edge).
+- [Node.js](https://nodejs.org/) (if using a build tool).
 
 ### Installation & Running
 
