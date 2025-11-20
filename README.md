@@ -113,16 +113,16 @@ open index.html
 ### For Senior Living Communities & Care Facilities
 
 **Facility Management**
-- Monitor energy across multiple residential units from a central dashboard
-- Identify units with unusual patterns requiring wellness checks
-- Reduce operational costs while maintaining resident comfort
-- Automated alerts for maintenance issues
+- Monitor energy across multiple residential units from a central dashboard.
+- Identify units with unusual patterns requiring wellness checks.
+- Reduce operational costs while maintaining resident comfort.
+- Automated alerts for maintenance issues.
 
 **Resident Independence**
-- Give residents control over their own spaces
-- Reduce staff burden for routine energy management
-- Provide families with transparent usage data
-- Support residents with varying levels of cognitive ability
+- Give residents control over their own spaces.
+- Reduce staff burden for routine energy management.
+- Provide families with transparent usage data.
+- Support residents with varying levels of cognitive ability.
 
 ### For Healthcare & Social Services
 
