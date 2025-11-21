@@ -127,24 +127,24 @@ open index.html
 ### For Healthcare & Social Services
 
 **Aging-in-Place Programs**
-- Integrate with telehealth and remote care monitoring systems
-- Provide social workers with insights into client wellbeing
-- Support independent living programs with data-driven interventions
-- Reduce hospital readmissions through better home environment monitoring
+- Integrate with telehealth and remote care monitoring systems.
+- Provide social workers with insights into client wellbeing.
+- Support independent living programs with data-driven interventions.
+- Reduce hospital readmissions through better home environment monitoring.
 
 **Cognitive Health Assessment**
-- Track changes in routine behaviors through appliance usage
-- Early detection of dementia or cognitive decline
-- Non-intrusive monitoring that respects privacy
-- Data for healthcare providers to make informed decisions
+- Track changes in routine behaviors through appliance usage.
+- Early detection of dementia or cognitive decline.
+- Non-intrusive monitoring that respects privacy.
+- Data for healthcare providers to make informed decisions.
 
 ### For Utility Companies & Government Programs
 
 **Senior Assistance Programs**
-- Identify seniors who qualify for energy assistance
-- Proactive outreach to vulnerable customers during extreme weather
-- Simplified billing interfaces for elderly customers
-- Educational programs on energy saving tailored to seniors
+- Identify seniors who qualify for energy assistance.
+- Proactive outreach to vulnerable customers during extreme weather.
+- Simplified billing interfaces for elderly customers.
+- Educational programs on energy saving tailored to seniors.
 
 **Public Health Initiatives**
 - Prevent heat stroke and hypothermia through temperature monitoring
