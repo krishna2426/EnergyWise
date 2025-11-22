@@ -147,10 +147,10 @@ open index.html
 - Educational programs on energy saving tailored to seniors.
 
 **Public Health Initiatives**
-- Prevent heat stroke and hypothermia through temperature monitoring
-- Emergency response during power outages or natural disasters
-- Support for low-income seniors with energy affordability
-- Reduce social isolation through family connectivity features
+- Prevent heat stroke and hypothermia through temperature monitoring.
+- Emergency response during power outages or natural disasters.
+- Support for low-income seniors with energy affordability.
+- Reduce social isolation through family connectivity features.
 
 ### Economic & Social Impact at Scale
 
