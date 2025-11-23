@@ -155,10 +155,10 @@ open index.html
 ### Economic & Social Impact at Scale
 
 **Cost Savings**
-- Average 20-30% reduction in energy bills for senior households
-- Reduced emergency room visits from preventable home incidents
-- Lower costs for assisted living through extended independent living
-- Decreased burden on social services and healthcare systems
+- Average 20-30% reduction in energy bills for senior households.
+- Reduced emergency room visits from preventable home incidents.
+- Lower costs for assisted living through extended independent living.
+- Decreased burden on social services and healthcare systems.
 
 **Quality of Life**
 - Increased confidence and independence for elderly users
