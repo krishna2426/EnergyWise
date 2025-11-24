@@ -161,10 +161,10 @@ open index.html
 - Decreased burden on social services and healthcare systems.
 
 **Quality of Life**
-- Increased confidence and independence for elderly users
-- Reduced stress and anxiety about home management
-- Better family connectivity and peace of mind
-- Enhanced safety and security in daily living
+- Increased confidence and independence for elderly users.
+- Reduced stress and anxiety about home management.
+- Better family connectivity and peace of mind.
+- Enhanced safety and security in daily living.
 
 **Healthcare Integration**
 - Early intervention before health crises occur
