@@ -167,10 +167,10 @@ open index.html
 - Enhanced safety and security in daily living.
 
 **Healthcare Integration**
-- Early intervention before health crises occur
-- Reduced hospital readmissions
-- Lower long-term care costs
-- Better outcomes for aging populations
+- Early intervention before health crises occur.
+- Reduced hospital readmissions.
+- Lower long-term care costs.
+- Better outcomes for aging populations.
 
 ##  Senior-Centered Design Principles
 
