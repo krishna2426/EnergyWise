@@ -175,11 +175,11 @@ open index.html
 ##  Senior-Centered Design Principles
 
 ### Visual Design
-- **Minimum font size**: 18px (adjustable up to 24px)
-- **High contrast ratios**: 7:1 for normal text, 4.5:1 for large text
-- **Touch targets**: Minimum 44x44px for all interactive elements
-- **Consistent layout**: Same navigation pattern on every page
-- **Minimal scrolling**: Key information visible without scrolling
+- **Minimum font size**: 18px (adjustable up to 24px).
+- **High contrast ratios**: 7:1 for normal text, 4.5:1 for large text.
+- **Touch targets**: Minimum 44x44px for all interactive elements.
+- **Consistent layout**: Same navigation pattern on every page.
+- **Minimal scrolling**: Key information visible without scrolling.
 
 ### Interaction Design
 - **Simple language**: No technical jargon, clear instructions
