@@ -182,11 +182,11 @@ open index.html
 - **Minimal scrolling**: Key information visible without scrolling.
 
 ### Interaction Design
-- **Simple language**: No technical jargon, clear instructions
-- **Forgiving interface**: Easy undo, confirmation dialogs for important actions
-- **Progress indicators**: Clear feedback for all actions
-- **Error prevention**: Warnings before potentially problematic actions
-- **Help always visible**: Context-sensitive help on every screen
+- **Simple language**: No technical jargon, clear instructions.
+- **Forgiving interface**: Easy undo, confirmation dialogs for important actions.
+- **Progress indicators**: Clear feedback for all actions.
+- **Error prevention**: Warnings before potentially problematic actions.
+- **Help always visible**: Context-sensitive help on every screen.
 
 ### Content Strategy
 - **Action-oriented labels**: "Turn Off Lights" instead of "Lighting Control"
