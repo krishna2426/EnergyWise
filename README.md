@@ -189,11 +189,11 @@ open index.html
 - **Help always visible**: Context-sensitive help on every screen.
 
 ### Content Strategy
-- **Action-oriented labels**: "Turn Off Lights" instead of "Lighting Control"
-- **Real-world terminology**: "Kitchen Refrigerator" instead of "Device #3"
-- **Visual cues**: Icons that match real-world appliances
-- **Positive reinforcement**: Celebrating energy-saving achievements
-- **Clear value proposition**: "Save $15 this month" instead of "200 kWh saved"
+- **Action-oriented labels**: "Turn Off Lights" instead of "Lighting Control".
+- **Real-world terminology**: "Kitchen Refrigerator" instead of "Device #3".
+- **Visual cues**: Icons that match real-world appliances.
+- **Positive reinforcement**: Celebrating energy-saving achievements.
+- **Clear value proposition**: "Save $15 this month" instead of "200 kWh saved".
 
 ##  Future Enhancements
 
