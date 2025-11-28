@@ -198,11 +198,11 @@ open index.html
 ##  Future Enhancements
 
 ### Backend Development
-- [ ] Real-time smart meter integration
-- [ ] Family member remote access portal
-- [ ] Cloud-based data storage and backup
-- [ ] Emergency notification system
-- [ ] Integration with medical alert systems
+- [ ] Real-time smart meter integration.
+- [ ] Family member remote access portal.
+- [ ] Cloud-based data storage and backup.
+- [ ] Emergency notification system.
+- [ ] Integration with medical alert systems.
 
 ### Advanced Features
 - [ ] AI-powered anomaly detection for safety alerts
