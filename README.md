@@ -205,13 +205,13 @@ open index.html
 - [ ] Integration with medical alert systems.
 
 ### Advanced Features
-- [ ] AI-powered anomaly detection for safety alerts
-- [ ] Voice assistant integration (Alexa, Google Home)
-- [ ] Video call integration for family check-ins
-- [ ] Medication reminder integration
-- [ ] Smart home device control (thermostats, lights)
-- [ ] Fall detection through unusual appliance patterns
-- [ ] Weather-based heating/cooling recommendations
+- [ ] AI-powered anomaly detection for safety alerts.
+- [ ] Voice assistant integration (Alexa, Google Home).
+- [ ] Video call integration for family check-ins.
+- [ ] Medication reminder integration.
+- [ ] Smart home device control (thermostats, lights).
+- [ ] Fall detection through unusual appliance patterns.
+- [ ] Weather-based heating/cooling recommendations.
 
 ### Accessibility Enhancements
 - [ ] Multiple language support
