@@ -214,19 +214,19 @@ open index.html
 - [ ] Weather-based heating/cooling recommendations.
 
 ### Accessibility Enhancements
-- [ ] Multiple language support
-- [ ] Text-to-speech for all content
-- [ ] Speech-to-text for voice commands
-- [ ] High contrast and low vision modes
-- [ ] Customizable color themes for color blindness
-- [ ] Simplified mode for users with cognitive challenges
+- [ ] Multiple language support.
+- [ ] Text-to-speech for all content.
+- [ ] Speech-to-text for voice commands.
+- [ ] High contrast and low vision modes.
+- [ ] Customizable color themes for color blindness.
+- [ ] Simplified mode for users with cognitive challenges.
 
 ### Family Features
-- [ ] Multi-user access with role-based permissions
-- [ ] Activity reports for family members
-- [ ] Scheduled check-in reminders
-- [ ] Caregiver notification system
-- [ ] Shared shopping lists and reminders
+- [ ] Multi-user access with role-based permissions.
+- [ ] Activity reports for family members.
+- [ ] Scheduled check-in reminders.
+- [ ] Caregiver notification system.
+- [ ] Shared shopping lists and reminders.
 
 ##  User Interface Highlights
 
