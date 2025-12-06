@@ -232,12 +232,12 @@ open index.html
 
 The demo showcases senior-friendly interfaces for:
 
-1. **Home Screen** - Big buttons, current usage, and today's cost
-2. **My Appliances** - Visual cards showing what's on/off with photos
-3. **Budget Tracker** - Simple bar showing spending vs. monthly budget
-4. **Alerts** - Clear notifications with suggested actions
-5. **Emergency Button** - One-tap access to turn off all devices
-6. **Help Center** - Video tutorials and phone support access
+1. **Home Screen** - Big buttons, current usage, and today's cost.
+2. **My Appliances** - Visual cards showing what's on/off with photos.
+3. **Budget Tracker** - Simple bar showing spending vs. monthly budget.
+4. **Alerts** - Clear notifications with suggested actions.
+5. **Emergency Button** - One-tap access to turn off all devices.
+6. **Help Center** - Video tutorials and phone support access.
 
 ##  Contributing
 
