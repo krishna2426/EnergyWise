@@ -242,10 +242,10 @@ The demo showcases senior-friendly interfaces for:
 ##  Contributing
 
 This project welcomes contributions focused on improving accessibility:
-- Accessibility testing with actual elderly users
-- UI/UX improvements for senior usability
-- Localization and language support
-- Documentation and user guides
+- Accessibility testing with actual elderly users.
+- UI/UX improvements for senior usability.
+- Localization and language support.
+- Documentation and user guides.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AccessibilityImprovement`)
