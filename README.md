@@ -275,10 +275,10 @@ Interested in implementing this for senior communities or contributing to senior
 
 ##  Acknowledgments
 
-- The Idea was taken from a hackathon which was Sustainovation 2025
-- Designed with input from elderly users and caregivers
-- Built following WCAG 2.1 Level AA accessibility standards
-- Inspired by the need to make technology inclusive for all ages
+- The Idea was taken from a hackathon which was Sustainovation 2025.
+- Designed with input from elderly users and caregivers.
+- Built following WCAG 2.1 Level AA accessibility standards.
+- Inspired by the need to make technology inclusive for all ages.
 
 ---
 
