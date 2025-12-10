@@ -284,4 +284,4 @@ Interested in implementing this for senior communities or contributing to senior
 
 **Note**: This is a frontend demonstration project. Full implementation would require backend infrastructure, smart home integrations, and partnerships with utility providers and senior care organizations.
 
-*Empowering seniors through accessible technology* 👵👴
+*Empowering seniors through accessible technology* 
