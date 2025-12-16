@@ -261,6 +261,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Krishna**
 - GitHub: [@krishna2426](https://github.com/krishna2426)
+- LinkedIn: [Krishna Sharma](www.linkedin.com/in/krishna-sharma-112366215)
+  
 
 ##  Vision
 
