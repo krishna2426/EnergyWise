@@ -247,11 +247,11 @@ This project welcomes contributions focused on improving accessibility:
 - Localization and language support.
 - Documentation and user guides.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AccessibilityImprovement`)
-3. Commit your changes (`git commit -m 'Improve button contrast'`)
-4. Push to the branch (`git push origin feature/AccessibilityImprovement`)
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/AccessibilityImprovement`).
+3. Commit your changes (`git commit -m 'Improve button contrast'`).
+4. Push to the branch (`git push origin feature/AccessibilityImprovement`).
+5. Open a Pull Request.
 
 ## 📝 License
 
@@ -271,9 +271,9 @@ EnergyWise envisions a world where age is never a barrier to technology. By crea
 ##  Contact
 
 Interested in implementing this for senior communities or contributing to senior-focused tech? Reach out via:
-- GitHub Issues
-- Pull Requests
-- krishnakr3009@gmail.com
+- GitHub Issues.
+- Pull Requests.
+- krishnakr3009@gmail.com 
 
 ##  Acknowledgments
 
