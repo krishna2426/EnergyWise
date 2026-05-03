@@ -19,7 +19,7 @@ Many elderly people face unique challenges with electricity management:
 
 EnergyWise makes energy management simple, safe, and stress-free for elderly users.
 
-##  Senior-Friendly Features (Frontend Demo)
+##  Senior-Friendly Features (Frontend Demo)...................
 
 ### Accessibility-First Design
 - **Large, Readable Text** - High contrast and adjustable font sizes.
